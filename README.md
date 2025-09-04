@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td>
-      <img width="200" src="https://github.com/user-attachments/assets/7d282a4c-b8fe-4e71-8503-335a2b69b77a" alt="스크롤이 잠시 올라갔다가 내려가는 문제" />
+      <img width="200" src="https://github.com/user-attachments/assets/875fb2d5-9c5e-4ada-9278-07be4bfd0087" alt="스크롤이 잠시 올라갔다가 내려가는 문제" />
     </td>
   </tr>
 </table>
@@ -162,10 +162,10 @@ const step = (timestamp: number) => {
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/52e38d88-49b4-49f8-9fb4-dcd17f5f87a3" alt="개선 전" />
+      <img src="https://github.com/user-attachments/assets/b780b7e3-3e45-4678-b6de-029dd2548118" alt="개선 전" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/095bce2e-df80-4af3-bbc6-3b79063853b2" alt="개선 후" />
+      <img src="https://github.com/user-attachments/assets/bb986f3e-39db-426d-b839-6e4943b984fb" alt="개선 후" />
     </td>
   </tr>
 </table>
